@@ -1,0 +1,30 @@
+{
+  "name": "covalent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/covalent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/covalent/issues"
+  },
+  "homepage": "https://github.com/OR13/covalent#readme",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "firebase-admin": "^6.0.0",
+    "ipfs": "^0.31.7",
+    "ipfs-api": "^24.0.1",
+    "solclientjs": "^10.1.0",
+    "transmute-adapter-ipfs": "^1.0.2-0"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
